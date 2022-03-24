@@ -1,7 +1,10 @@
 ### Hi 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aseungbo)](https://github.com/anuraghazra/github-readme-stats)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seuan)](https://github.com/JaeSeoKim/badge42)
 
+<!-- 
+  Need to Error fix
+  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seuan)](https://github.com/JaeSeoKim/badge42)
+-->
 
 <!--
 **aseungbo/aseungbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
